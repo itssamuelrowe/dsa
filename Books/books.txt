@@ -1,0 +1,104 @@
+ * Git for Teams
+ * Node.js in Action
+ * The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley
+ * Java Persistence with Hibernate
+ * Tensorflow for Deep Learning
+ * React in Action
+ * C++ Primer Plus
+ * Max Workouts
+ * The Definitive Guide to Firebase
+ * Java Virtual Machine Specification
+ * Version Control with Git
+ * The Garbage Collection Handbook
+ * The Linux System Programming
+ * OpenGL Programming Guide
+ * Strength Training Anatomy
+ * Android Application Development For Dummies
+ * Ant - The Definitive Guide
+ * C for Dummies
+ * C All-In-One Desk Reference for Dummies
+ * Programming Windows
+ * Windows System Programming
+ * Hacker's Delight
+ * Beej's Guide to Network Programming
+ * C++ All-In-One Desk Reference For Dummies
+ * C++ For Dummies
+ * HTML: A Beginner’s Guide
+ * Java for Dummies
+ * Java All-In-One Desk Reference for Dummies
+ * Algorithms in a Nutshell
+ * Algorithms
+ * Java Network Programming
+ * Java Refelection in Action
+ * Java Swing
+ * Java the Complete Reference
+ * JavaFX for Dummies
+ * JUnit in Action
+ * The Definitive ANTLR 4 Reference
+ * Mastering JavaFX 8 Controls
+ * Up to Speed with Swing
+ * Orielly Java Swing
+ * Unicode Standard 8.0
+ * AngularJS in Action
+ * Language Implementation Patterns
+ * MongoDB in Action
+ * Java Servlet Programming
+ * Head First Design Patterns
+ * Spring in Action
+ * Spring REST
+ * SEO All-In-One Desk Reference For Dummies
+ * The Art of Hacking
+ * Learning RabbitMQ
+ * The 4 Hour Work Week
+ * JDBC Pocket Reference
+ * The Java Virtual Machine Specification 9
+ * Deep Learning with Tensorflow
+ * Black Holes - Stephen Hawking
+ * Feynman's Lost Lectures by David Goodstein and Judith Goodstein
+ * Neural Networks and Learning Machines by Simon Haykin
+ * Machine Learning in Action
+ * Mastering Regular Expressions
+ * Numerical Python
+ * Alibaba: The House that Jack Ma Built by Duncan Clark
+ * Numerical Python
+ * Deep Learning by Ian Goodfellow and Yoshua Bengio
+
+ * A Song of Ice and Fire - A Game of Thrones
+ * A Song of Ice and Fire - A Clash of Kings
+ * Fifty Shades of Grey
+ * Fifty Shades Darker
+ * Fifty Shades Freed
+ * Grey
+ * Harry Potter and the Sorcerer's Stone
+ * Harry Potter and the Chamber of Secrets
+ * Harry Potter and the Prisoner of Azkaban
+ * Harry Potter and the Goblet of Fire
+ * Harry Potter and the Order of Phoenix
+ * Harry Potter and the Half Blood Prince
+ * Harry Potter and the Deathly Hallows
+ * Harry Potter and the Cursed Child
+ * Fantastic Beasts and Where to Find Them
+ * The Tales of Beedle the Bard
+ * The Hunger Games
+ * The Hunger Games - Catching Fire
+ * The Hunger Games - Mockingjay
+ * The Hobbit
+ * The Maze Runner
+ * The Scorch Trials
+ * The Death Cure
+ * Twilight
+ * Twilight Saga - New Moon
+ * One Night at a Call Center
+ * Half Girlfriend
+ * Three Mistakes of My Life
+ * Steve Jobs
+ * The Girl on the Train
+ * The Martian
+ 
+ * How to Make Friends and Influence People
+
+[2019]
+ * Delivering Happiness by Tony Tshei
+ * How to be a 3% Man by Corey Wayne
+ * Flask Web Development by Miguel Grinberg
+ * The Lean Startup by Eric Ries

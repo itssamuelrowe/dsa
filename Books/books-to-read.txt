@@ -1,0 +1,45 @@
+[Novel]
+ * An American Marriage by Tayari Jones (from Bill Gates end-of-year list 2019)
+ * Les Miserables by Victor Hugo
+ * Ulysses by James Joyce
+ * Little Women by Louisa May Alcott
+
+[History]
+ * These Truths, by Jill Lepore (from Bill Gates end-of-year list 2019)
+
+[Biography]
+ ** 'Founders at Work: Stories of Startups' Early Days’ by Jessica Livingston
+ ** 'The Everything Store: Jeff Bezos and the Age of Amazon' by Brad Stone
+ ** 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future' by Ashlee Vance
+ ** Losing My Virginity by Richard Branson
+ * 'The Snowball: Warren Buffett and the Business of Life' by Alice Schroeder
+ * 'The Facebook Effect: The Real Inside Story of Mark Zuckerberg and the World's Fastest Growing Company' by David Kirkpatrick
+ * 'Oprah: A Biography' by Kitty Kelley
+ * 'C.K. Prahalad: The Mind of the Futurist' by Benedict Paramanand
+ * 'Built from Scratch' by Bernie Marcus and Arthur Blank
+ * Idea Man: A Memoir by the Co-Founder of Microsoft
+ 
+[Personal Development / Entrepreneurship]
+ 
+ * Growth, by Vaclav Smil (from Bill Gates end-of-year list 2019)
+ * Why We Sleep, by Matthew Walker (from Bill Gates end-of-year list 2019)
+ * Prepared, by Diane Tavenner (from Bill Gates end-of-year list 2019)
+ ** Zero to One by Peter Thiel
+ ** The Lean Startup by Eric Ries
+ ** Rich Dad Poor Dad by Robert T. Kioysaki
+ ** The Power of Broke by Daymond John
+ * The Innovators Dilemma by Clayton Christensten (suggested by Tony Tshei)
+ * Good to Great by James Collin (suggested by Tony Tshei)
+ * The 4-Hour Work Week by Tim Ferriss
+ * The $100 Startup by Chris Guillebeau
+ * The E Myth by Michael E. Gerber
+ * Think and Grow Rich by Napoleon Hill
+ * Built to Last by Jim Collins
+ ** 7 Habbits of Highly Effective People by Stephen R. Covey
+ * Happiness Hypothesis
+
+[Programming]
+ * Learning with Kernels: Support Vector Machined, Regularization, Optimization, and Beyond
+ * The Numerati by Stephen Baker
+ * Concurrency in Go by Katherine Cox-Buday
+ * Introducing Go by Caleb Doxsey
